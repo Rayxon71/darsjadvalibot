@@ -1,0 +1,330 @@
+{
+  "1-kurs": {
+    "ATT": {
+      "ATT-221": {
+        "Dushanba": "Kompyuter tarmoqlari: 09:00-10:20(101-xona)\nAxborot xavfsizligi: 10:30-11:50(101-xona)",
+        "Seshanba": "Buyumlar interneti: 09:00-10:20(102-xona)\nDasturlash: 10:30-11:50(102-xona)",
+        "Chorshanba": "Kompyuter tarmoqlari: 09:00-10:20(101-xona)\nIngliz tili: 10:30-11:50(103-xona)",
+        "Payshanba": "Axborot xavfsizligi: 09:00-10:20(101-xona)\nDasturlash: 10:30-11:50(102-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(103-xona)\nJava dasturlash: 10:30-11:50(102-xona)"
+      },
+      "ATT-222": {
+        "Dushanba": "Kompyuter tarmoqlari: 09:00-10:20(104-xona)\nAxborot xavfsizligi: 10:30-11:50(104-xona)",
+        "Seshanba": "Dasturlash: 09:00-10:20(105-xona)\nBuyumlar interneti: 10:30-11:50(105-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(106-xona)\nKompyuter tarmoqlari: 10:30-11:50(104-xona)",
+        "Payshanba": "Dasturlash: 09:00-10:20(105-xona)\nAxborot xavfsizligi: 10:30-11:50(104-xona)",
+        "Juma": "Java dasturlash: 09:00-10:20(105-xona)\nIngliz tili: 10:30-11:50(106-xona)"
+      }
+    },
+    "Bank ishi": {
+      "BI-101": {
+        "Dushanba": "Iqtisodiyot: 09:00-10:20(201-xona)\nBank ishi: 10:30-11:50(201-xona)",
+        "Seshanba": "Buxgalteriya: 09:00-10:20(202-xona)\nStatistika: 10:30-11:50(202-xona)",
+        "Chorshanba": "Iqtisodiyot: 09:00-10:20(201-xona)\nIngliz tili: 10:30-11:50(203-xona)",
+        "Payshanba": "Bank ishi: 09:00-10:20(201-xona)\nBuxgalteriya: 10:30-11:50(202-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(203-xona)\nStatistika: 10:30-11:50(202-xona)"
+      },
+      "BI-102": {
+        "Dushanba": "Bank ishi: 09:00-10:20(204-xona)\nIqtisodiyot: 10:30-11:50(204-xona)",
+        "Seshanba": "Statistika: 09:00-10:20(205-xona)\nBuxgalteriya: 10:30-11:50(205-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(206-xona)\nIqtisodiyot: 10:30-11:50(204-xona)",
+        "Payshanba": "Buxgalteriya: 09:00-10:20(205-xona)\nBank ishi: 10:30-11:50(204-xona)",
+        "Juma": "Statistika: 09:00-10:20(205-xona)\nIngliz tili: 10:30-11:50(206-xona)"
+      }
+    },
+    "Moliya": {
+      "MOL-101": {
+        "Dushanba": "Moliyaviy tahlil: 09:00-10:20(301-xona)\nInvestitsiyalar: 10:30-11:50(301-xona)",
+        "Seshanba": "Moliyaviy bozorlar: 09:00-10:20(302-xona)\nStatistika: 10:30-11:50(302-xona)",
+        "Chorshanba": "Moliyaviy tahlil: 09:00-10:20(301-xona)\nIngliz tili: 10:30-11:50(303-xona)",
+        "Payshanba": "Investitsiyalar: 09:00-10:20(301-xona)\nMoliyaviy bozorlar: 10:30-11:50(302-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(303-xona)\nStatistika: 10:30-11:50(302-xona)"
+      },
+      "MOL-102": {
+        "Dushanba": "Investitsiyalar: 09:00-10:20(304-xona)\nMoliyaviy tahlil: 10:30-11:50(304-xona)",
+        "Seshanba": "Statistika: 09:00-10:20(305-xona)\nMoliyaviy bozorlar: 10:30-11:50(305-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(306-xona)\nMoliyaviy tahlil: 10:30-11:50(304-xona)",
+        "Payshanba": "Moliyaviy bozorlar: 09:00-10:20(305-xona)\nInvestitsiyalar: 10:30-11:50(304-xona)",
+        "Juma": "Statistika: 09:00-10:20(305-xona)\nIngliz tili: 10:30-11:50(306-xona)"
+      }
+    },
+    "Iqtisodiyot": {
+      "IQT-101": {
+        "Dushanba": "Makroiqtisodiyot: 09:00-10:20(401-xona)\nMikroiqtisodiyot: 10:30-11:50(401-xona)",
+        "Seshanba": "Ekonometriya: 09:00-10:20(402-xona)\nIqtisodiy tahlil: 10:30-11:50(402-xona)",
+        "Chorshanba": "Makroiqtisodiyot: 09:00-10:20(401-xona)\nIngliz tili: 10:30-11:50(403-xona)",
+        "Payshanba": "Mikroiqtisodiyot: 09:00-10:20(401-xona)\nEkonometriya: 10:30-11:50(402-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(403-xona)\nIqtisodiy tahlil: 10:30-11:50(402-xona)"
+      },
+      "IQT-102": {
+        "Dushanba": "Mikroiqtisodiyot: 09:00-10:20(404-xona)\nMakroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Seshanba": "Iqtisodiy tahlil: 09:00-10:20(405-xona)\nEkonometriya: 10:30-11:50(405-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(406-xona)\nMakroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Payshanba": "Ekonometriya: 09:00-10:20(405-xona)\nMikroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Juma": "Iqtisodiy tahlil: 09:00-10:20(405-xona)\nIngliz tili: 10:30-11:50(406-xona)"
+      }
+    },
+    "Soliq": {
+      "SOL-101": {
+        "Dushanba": "Soliq qonunchiligi: 09:00-10:20(501-xona)\nSoliq tahlili: 10:30-11:50(501-xona)",
+        "Seshanba": "Soliq auditi: 09:00-10:20(502-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)",
+        "Chorshanba": "Soliq qonunchiligi: 09:00-10:20(501-xona)\nIngliz tili: 10:30-11:50(503-xona)",
+        "Payshanba": "Soliq tahlili: 09:00-10:20(501-xona)\nSoliq auditi: 10:30-11:50(502-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(503-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)"
+      },
+      "SOL-102": {
+        "Dushanba": "Soliq tahlili: 09:00-10:20(504-xona)\nSoliq qonunchiligi: 10:30-11:50(504-xona)",
+        "Seshanba": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nSoliq auditi: 10:30-11:50(505-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(506-xona)\nSoliq qonunchiligi: 10:30-11:50(504-xona)",
+        "Payshanba": "Soliq auditi: 09:00-10:20(505-xona)\nSoliq tahlili: 10:30-11:50(504-xona)",
+        "Juma": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nIngliz tili: 10:30-11:50(506-xona)"
+      }
+    }
+  },
+  "2-kurs": {
+    "ATT": {
+      "ATT-221": {
+        "Dushanba": "Kompyuter tarmoqlari: 09:00-10:20(307-xona)\nDasturlash texnologiyalari: 10:30-11:50(307-xona)",
+        "Seshanba": "Buyumlar interneti: 09:00-10:20(308-xona)\nJava dasturlash: 10:30-11:50(308-xona)",
+        "Chorshanba": "Dasturlash texnologiyalari: 09:00-10:20(307-xona)\nBuyumlar interneti: 10:30-11:50(308-xona)",
+        "Payshanba": "Kompyuter tarmoqlari: 09:00-10:20(307-xona)\nAxborot xavfsizligi: 10:30-11:50(309-xona)",
+        "Juma": "Java dasturlash: 09:00-10:20(308-xona)\nIngliz tili: 10:30-11:50(310-xona)"
+      },
+      "ATT-222": {
+        "Dushanba": "Dasturlash texnologiyalari: 09:00-10:20(311-xona)\nKompyuter tarmoqlari: 10:30-11:50(311-xona)",
+        "Seshanba": "Java dasturlash: 09:00-10:20(312-xona)\nBuyumlar interneti: 10:30-11:50(312-xona)",
+        "Chorshanba": "Buyumlar interneti: 09:00-10:20(312-xona)\nDasturlash texnologiyalari: 10:30-11:50(311-xona)",
+        "Payshanba": "Axborot xavfsizligi: 09:00-10:20(309-xona)\nKompyuter tarmoqlari: 10:30-11:50(311-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(310-xona)\nJava dasturlash: 10:30-11:50(312-xona)"
+      }
+    },
+    "Bank ishi": {
+      "BI-201": {
+        "Dushanba": "Bank operatsiyalari: 09:00-10:20(201-xona)\nKredit tahlili: 10:30-11:50(201-xona)",
+        "Seshanba": "Moliyaviy menejment: 09:00-10:20(202-xona)\nBank xizmatlari: 10:30-11:50(202-xona)",
+        "Chorshanba": "Bank operatsiyalari: 09:00-10:20(201-xona)\nIngliz tili: 10:30-11:50(203-xona)",
+        "Payshanba": "Kredit tahlili: 09:00-10:20(201-xona)\nMoliyaviy menejment: 10:30-11:50(202-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(203-xona)\nBank xizmatlari: 10:30-11:50(202-xona)"
+      },
+      "BI-202": {
+        "Dushanba": "Kredit tahlili: 09:00-10:20(204-xona)\nBank operatsiyalari: 10:30-11:50(204-xona)",
+        "Seshanba": "Bank xizmatlari: 09:00-10:20(205-xona)\nMoliyaviy menejment: 10:30-11:50(205-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(206-xona)\nBank operatsiyalari: 10:30-11:50(204-xona)",
+        "Payshanba": "Moliyaviy menejment: 09:00-10:20(205-xona)\nKredit tahlili: 10:30-11:50(204-xona)",
+        "Juma": "Bank xizmatlari: 09:00-10:20(205-xona)\nIngliz tili: 10:30-11:50(206-xona)"
+      }
+    },
+    "Moliya": {
+      "MOL-201": {
+        "Dushanba": "Moliyaviy tahlil: 09:00-10:20(301-xona)\nInvestitsiyalar: 10:30-11:50(301-xona)",
+        "Seshanba": "Moliyaviy bozorlar: 09:00-10:20(302-xona)\nStatistika: 10:30-11:50(302-xona)",
+        "Chorshanba": "Moliyaviy tahlil: 09:00-10:20(301-xona)\nIngliz tili: 10:30-11:50(303-xona)",
+        "Payshanba": "Investitsiyalar: 09:00-10:20(301-xona)\nMoliyaviy bozorlar: 10:30-11:50(302-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(303-xona)\nStatistika: 10:30-11:50(302-xona)"
+      },
+      "MOL-202": {
+        "Dushanba": "Investitsiyalar: 09:00-10:20(304-xona)\nMoliyaviy tahlil: 10:30-11:50(304-xona)",
+        "Seshanba": "Statistika: 09:00-10:20(305-xona)\nMoliyaviy bozorlar: 10:30-11:50(305-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(306-xona)\nMoliyaviy tahlil: 10:30-11:50(304-xona)",
+        "Payshanba": "Moliyaviy bozorlar: 09:00-10:20(305-xona)\nInvestitsiyalar: 10:30-11:50(304-xona)",
+        "Juma": "Statistika: 09:00-10:20(305-xona)\nIngliz tili: 10:30-11:50(306-xona)"
+      }
+    },
+    "Iqtisodiyot": {
+      "IQT-201": {
+        "Dushanba": "Iqtisodiy siyosat: 09:00-10:20(401-xona)\nIqtisodiy strategiyalar: 10:30-11:50(401-xona)",
+        "Seshanba": "Makroiqtisodiyot: 09:00-10:20(402-xona)\nMikroiqtisodiyot: 10:30-11:50(402-xona)",
+        "Chorshanba": "Iqtisodiy siyosat: 09:00-10:20(401-xona)\nIngliz tili: 10:30-11:50(403-xona)",
+        "Payshanba": "Iqtisodiy strategiyalar: 09:00-10:20(401-xona)\nMakroiqtisodiyot: 10:30-11:50(402-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(403-xona)\nMikroiqtisodiyot: 10:30-11:50(402-xona)"
+      },
+      "IQT-202": {
+        "Dushanba": "Iqtisodiy strategiyalar: 09:00-10:20(404-xona)\nIqtisodiy siyosat: 10:30-11:50(404-xona)",
+        "Seshanba": "Mikroiqtisodiyot: 09:00-10:20(405-xona)\nMakroiqtisodiyot: 10:30-11:50(405-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(406-xona)\nIqtisodiy siyosat: 10:30-11:50(404-xona)",
+        "Payshanba": "Makroiqtisodiyot: 09:00-10:20(405-xona)\nIqtisodiy strategiyalar: 10:30-11:50(404-xona)",
+        "Juma": "Mikroiqtisodiyot: 09:00-10:20(405-xona)\nIngliz tili: 10:30-11:50(406-xona)"
+      }
+    },
+    "Soliq": {
+      "SOL-201": {
+        "Dushanba": "Soliq tahlili: 09:00-10:20(501-xona)\nSoliq auditi: 10:30-11:50(501-xona)",
+        "Seshanba": "Soliq qonunchiligi: 09:00-10:20(502-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)",
+        "Chorshanba": "Soliq tahlili: 09:00-10:20(501-xona)\nIngliz tili: 10:30-11:50(503-xona)",
+        "Payshanba": "Soliq auditi: 09:00-10:20(501-xona)\nSoliq qonunchiligi: 10:30-11:50(502-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(503-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)"
+      },
+      "SOL-202": {
+        "Dushanba": "Soliq auditi: 09:00-10:20(504-xona)\nSoliq tahlili: 10:30-11:50(504-xona)",
+        "Seshanba": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nSoliq qonunchiligi: 10:30-11:50(505-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(506-xona)\nSoliq tahlili: 10:30-11:50(504-xona)",
+        "Payshanba": "Soliq qonunchiligi: 09:00-10:20(505-xona)\nSoliq auditi: 10:30-11:50(504-xona)",
+        "Juma": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nIngliz tili: 10:30-11:50(506-xona)"
+      }
+    }
+  },
+  "3-kurs": {
+    "ATT": {
+      "ATT-221": {
+        "Dushanba": "Ma'lumotlar bazasi tizimlari: 09:00-10:20(413-xona)\nTarmoq administratsiyasi: 10:30-11:50(413-xona)",
+        "Seshanba": "Kompyuter tarmoqlari: 09:00-10:20(414-xona)\nJava dasturlash: 10:30-11:50(414-xona)",
+        "Chorshanba": "Axborot xavfsizligi: 09:00-10:20(415-xona)\nIngliz tili: 10:30-11:50(416-xona)",
+        "Payshanba": "Buyumlar interneti: 09:00-10:20(417-xona)\nMa'lumotlar bazasi tizimlari: 10:30-11:50(413-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(416-xona)\nTarmoq administratsiyasi: 10:30-11:50(413-xona)"
+      },
+      "ATT-222": {
+        "Dushanba": "Tarmoq administratsiyasi: 09:00-10:20(418-xona)\nMa'lumotlar bazasi tizimlari: 10:30-11:50(418-xona)",
+        "Seshanba": "Java dasturlash: 09:00-10:20(417-xona)\nKompyuter tarmoqlari: 10:30-11:50(414-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(416-xona)\nAxborot xavfsizligi: 10:30-11:50(415-xona)",
+        "Payshanba": "Ma'lumotlar bazasi tizimlari: 09:00-10:20(418-xona)\nBuyumlar interneti: 10:30-11:50(417-xona)",
+        "Juma": "Tarmoq administratsiyasi: 09:00-10:20(413-xona)\nIngliz tili: 10:30-11:50(416-xona)"
+      }
+    },
+    "Bank ishi": {
+      "BI-301": {
+        "Dushanba": "Bank risklari: 09:00-10:20(201-xona)\nMoliyaviy tahlil: 10:30-11:50(201-xona)",
+        "Seshanba": "Bank auditi: 09:00-10:20(202-xona)\nInvestitsiyalar: 10:30-11:50(202-xona)",
+        "Chorshanba": "Bank risklari: 09:00-10:20(201-xona)\nIngliz tili: 10:30-11:50(203-xona)",
+        "Payshanba": "Moliyaviy tahlil: 09:00-10:20(201-xona)\nBank auditi: 10:30-11:50(202-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(203-xona)\nInvestitsiyalar: 10:30-11:50(202-xona)"
+      },
+      "BI-302": {
+        "Dushanba": "Moliyaviy tahlil: 09:00-10:20(204-xona)\nBank risklari: 10:30-11:50(204-xona)",
+        "Seshanba": "Investitsiyalar: 09:00-10:20(205-xona)\nBank auditi: 10:30-11:50(205-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(206-xona)\nBank risklari: 10:30-11:50(204-xona)",
+        "Payshanba": "Bank auditi: 09:00-10:20(205-xona)\nMoliyaviy tahlil: 10:30-11:50(204-xona)",
+        "Juma": "Investitsiyalar: 09:00-10:20(205-xona)\nIngliz tili: 10:30-11:50(206-xona)"
+      }
+    },
+    "Moliya": {
+      "MOL-301": {
+        "Dushanba": "Moliyaviy menejment: 09:00-10:20(407-xona)\nRisklarni boshqarish: 10:30-11:50(407-xona)",
+        "Seshanba": "Moliyaviy hisobot: 09:00-10:20(408-xona)\nInvestitsiya strategiyalari: 10:30-11:50(408-xona)",
+        "Chorshanba": "Moliyaviy menejment: 09:00-10:20(407-xona)\nIngliz tili: 10:30-11:50(409-xona)",
+        "Payshanba": "Risklarni boshqarish: 09:00-10:20(407-xona)\nMoliyaviy hisobot: 10:30-11:50(408-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(409-xona)\nInvestitsiya strategiyalari: 10:30-11:50(408-xona)"
+      },
+      "MOL-302": {
+        "Dushanba": "Risklarni boshqarish: 09:00-10:20(410-xona)\nMoliyaviy menejment: 10:30-11:50(410-xona)",
+        "Seshanba": "Investitsiya strategiyalari: 09:00-10:20(411-xona)\nMoliyaviy hisobot: 10:30-11:50(411-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(412-xona)\nMoliyaviy menejment: 10:30-11:50(410-xona)",
+        "Payshanba": "Moliyaviy hisobot: 09:00-10:20(411-xona)\nRisklarni boshqarish: 10:30-11:50(410-xona)",
+        "Juma": "Investitsiya strategiyalari: 09:00-10:20(411-xona)\nIngliz tili: 10:30-11:50(412-xona)"
+      }
+    },
+    "Iqtisodiyot": {
+      "IQT-301": {
+        "Dushanba": "Makroiqtisodiyot: 09:00-10:20(401-xona)\nMikroiqtisodiyot: 10:30-11:50(401-xona)",
+        "Seshanba": "Ekonometriya: 09:00-10:20(402-xona)\nIqtisodiy tahlil: 10:30-11:50(402-xona)",
+        "Chorshanba": "Makroiqtisodiyot: 09:00-10:20(401-xona)\nIngliz tili: 10:30-11:50(403-xona)",
+        "Payshanba": "Mikroiqtisodiyot: 09:00-10:20(401-xona)\nEkonometriya: 10:30-11:50(402-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(403-xona)\nIqtisodiy tahlil: 10:30-11:50(402-xona)"
+      },
+      "IQT-302": {
+        "Dushanba": "Mikroiqtisodiyot: 09:00-10:20(404-xona)\nMakroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Seshanba": "Iqtisodiy tahlil: 09:00-10:20(405-xona)\nEkonometriya: 10:30-11:50(405-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(406-xona)\nMakroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Payshanba": "Ekonometriya: 09:00-10:20(405-xona)\nMikroiqtisodiyot: 10:30-11:50(404-xona)",
+        "Juma": "Iqtisodiy tahlil: 09:00-10:20(405-xona)\nIngliz tili: 10:30-11:50(406-xona)"
+      }
+    },
+    "Soliq": {
+      "SOL-301": {
+        "Dushanba": "Soliq strategiyalari: 09:00-10:20(501-xona)\nSoliq auditi: 10:30-11:50(501-xona)",
+        "Seshanba": "Soliq qonunchiligi: 09:00-10:20(502-xona)\nMoliyaviy tahlil: 10:30-11:50(502-xona)",
+        "Chorshanba": "Soliq strategiyalari: 09:00-10:20(501-xona)\nIngliz tili: 10:30-11:50(503-xona)",
+        "Payshanba": "Soliq auditi: 09:00-10:20(501-xona)\nSoliq qonunchiligi: 10:30-11:50(502-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(503-xona)\nMoliyaviy tahlil: 10:30-11:50(502-xona)"
+      },
+      "SOL-302": {
+        "Dushanba": "Soliq auditi: 09:00-10:20(504-xona)\nSoliq strategiyalari: 10:30-11:50(504-xona)",
+        "Seshanba": "Moliyaviy tahlil: 09:00-10:20(505-xona)\nSoliq qonunchiligi: 10:30-11:50(505-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(506-xona)\nSoliq strategiyalari: 10:30-11:50(504-xona)",
+        "Payshanba": "Soliq qonunchiligi: 09:00-10:20(505-xona)\nSoliq auditi: 10:30-11:50(504-xona)",
+        "Juma": "Moliyaviy tahlil: 09:00-10:20(505-xona)\nIngliz tili: 10:30-11:50(506-xona)"
+      }
+    }
+  },
+  "4-kurs": {
+    "ATT": {
+      "ATT-221": {
+        "Dushanba": "Sun'iy intellekt asoslari: 09:00-10:20(513-xona)\nKiberxavfsizlik: 10:30-11:50(513-xona)",
+        "Seshanba": "Bulutli texnologiyalar: 09:00-10:20(514-xona)\nMa'lumotlar bazasi tizimlari: 10:30-11:50(514-xona)",
+        "Chorshanba": "Axborot xavfsizligi: 09:00-10:20(515-xona)\nIngliz tili: 10:30-11:50(516-xona)",
+        "Payshanba": "Kiberxavfsizlik: 09:00-10:20(513-xona)\nSun'iy intellekt asoslari: 10:30-11:50(513-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(516-xona)\nBulutli texnologiyalar: 10:30-11:50(514-xona)"
+      },
+      "ATT-222": {
+        "Dushanba": "Kiberxavfsizlik: 09:00-10:20(517-xona)\nSun'iy intellekt asoslari: 10:30-11:50(517-xona)",
+        "Seshanba": "Ma'lumotlar bazasi tizimlari: 09:00-10:20(518-xona)\nBulutli texnologiyalar: 10:30-11:50(518-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(516-xona)\nAxborot xavfsizligi: 10:30-11:50(515-xona)",
+        "Payshanba": "Sun'iy intellekt asoslari: 09:00-10:20(517-xona)\nKiberxavfsizlik: 10:30-11:50(517-xona)",
+        "Juma": "Bulutli texnologiyalar: 09:00-10:20(518-xona)\nIngliz tili: 10:30-11:50(516-xona)"
+      }
+    },
+    "Bank ishi": {
+      "BI-401": {
+        "Dushanba": "Xalqaro bank ishi: 09:00-10:20(201-xona)\nBank strategiyalari: 10:30-11:50(201-xona)",
+        "Seshanba": "Moliyaviy innovatsiyalar: 09:00-10:20(202-xona)\nBank auditi: 10:30-11:50(202-xona)",
+        "Chorshanba": "Xalqaro bank ishi: 09:00-10:20(201-xona)\nIngliz tili: 10:30-11:50(203-xona)",
+        "Payshanba": "Bank strategiyalari: 09:00-10:20(201-xona)\nMoliyaviy innovatsiyalar: 10:30-11:50(202-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(203-xona)\nBank auditi: 10:30-11:50(202-xona)"
+      },
+      "BI-402": {
+        "Dushanba": "Bank strategiyalari: 09:00-10:20(204-xona)\nXalqaro bank ishi: 10:30-11:50(204-xona)",
+        "Seshanba": "Bank auditi: 09:00-10:20(205-xona)\nMoliyaviy innovatsiyalar: 10:30-11:50(205-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(206-xona)\nXalqaro bank ishi: 10:30-11:50(204-xona)",
+        "Payshanba": "Moliyaviy innovatsiyalar: 09:00-10:20(205-xona)\nBank strategiyalari: 10:30-11:50(204-xona)",
+        "Juma": "Bank auditi: 09:00-10:20(205-xona)\nIngliz tili: 10:30-11:50(206-xona)"
+      }
+    },
+    "Moliya": {
+      "MOL-401": {
+        "Dushanba": "Moliyaviy strategiyalar: 09:00-10:20(407-xona)\nXalqaro moliya: 10:30-11:50(407-xona)",
+        "Seshanba": "Moliyaviy innovatsiyalar: 09:00-10:20(408-xona)\nInvestitsiya tahlili: 10:30-11:50(408-xona)",
+        "Chorshanba": "Moliyaviy strategiyalar: 09:00-10:20(407-xona)\nIngliz tili: 10:30-11:50(409-xona)",
+        "Payshanba": "Xalqaro moliya: 09:00-10:20(407-xona)\nMoliyaviy innovatsiyalar: 10:30-11:50(408-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(409-xona)\nInvestitsiya tahlili: 10:30-11:50(408-xona)"
+      },
+      "MOL-402": {
+        "Dushanba": "Xalqaro moliya: 09:00-10:20(410-xona)\nMoliyaviy strategiyalar: 10:30-11:50(410-xona)",
+        "Seshanba": "Investitsiya tahlili: 09:00-10:20(411-xona)\nMoliyaviy innovatsiyalar: 10:30-11:50(411-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(412-xona)\nMoliyaviy strategiyalar: 10:30-11:50(410-xona)",
+        "Payshanba": "Moliyaviy innovatsiyalar: 09:00-10:20(411-xona)\nXalqaro moliya: 10:30-11:50(410-xona)",
+        "Juma": "Investitsiya tahlili: 09:00-10:20(411-xona)\nIngliz tili: 10:30-11:50(412-xona)"
+      }
+    },
+    "Iqtisodiyot": {
+      "IQT-401": {
+        "Dushanba": "Xalqaro iqtisodiyot: 09:00-10:20(507-xona)\nIqtisodiy siyosat: 10:30-11:50(507-xona)",
+        "Seshanba": "Iqtisodiy strategiyalar: 09:00-10:20(508-xona)\nIqtisodiy prognozlash: 10:30-11:50(508-xona)",
+        "Chorshanba": "Xalqaro iqtisodiyot: 09:00-10:20(507-xona)\nIngliz tili: 10:30-11:50(509-xona)",
+        "Payshanba": "Iqtisodiy siyosat: 09:00-10:20(507-xona)\nIqtisodiy strategiyalar: 10:30-11:50(508-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(509-xona)\nIqtisodiy prognozlash: 10:30-11:50(508-xona)"
+      },
+      "IQT-402": {
+        "Dushanba": "Iqtisodiy siyosat: 09:00-10:20(510-xona)\nXalqaro iqtisodiyot: 10:30-11:50(510-xona)",
+        "Seshanba": "Iqtisodiy prognozlash: 09:00-10:20(511-xona)\nIqtisodiy strategiyalar: 10:30-11:50(511-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(512-xona)\nXalqaro iqtisodiyot: 10:30-11:50(510-xona)",
+        "Payshanba": "Iqtisodiy strategiyalar: 09:00-10:20(511-xona)\nIqtisodiy siyosat: 10:30-11:50(510-xona)",
+        "Juma": "Iqtisodiy prognozlash: 09:00-10:20(511-xona)\nIngliz tili: 10:30-11:50(512-xona)"
+      }
+    },
+    "Soliq": {
+      "SOL-401": {
+        "Dushanba": "Soliq qonunchiligi: 09:00-10:20(501-xona)\nSoliq tahlili: 10:30-11:50(501-xona)",
+        "Seshanba": "Soliq auditi: 09:00-10:20(502-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)",
+        "Chorshanba": "Soliq qonunchiligi: 09:00-10:20(501-xona)\nIngliz tili: 10:30-11:50(503-xona)",
+        "Payshanba": "Soliq tahlili: 09:00-10:20(501-xona)\nSoliq auditi: 10:30-11:50(502-xona)",
+        "Juma": "Ingliz tili: 09:00-10:20(503-xona)\nMoliyaviy hisobot: 10:30-11:50(502-xona)"
+      },
+      "SOL-402": {
+        "Dushanba": "Soliq tahlili: 09:00-10:20(504-xona)\nSoliq qonunchiligi: 10:30-11:50(504-xona)",
+        "Seshanba": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nSoliq auditi: 10:30-11:50(505-xona)",
+        "Chorshanba": "Ingliz tili: 09:00-10:20(506-xona)\nSoliq qonunchiligi: 10:30-11:50(504-xona)",
+        "Payshanba": "Soliq auditi: 09:00-10:20(505-xona)\nSoliq tahlili: 10:30-11:50(504-xona)",
+        "Juma": "Moliyaviy hisobot: 09:00-10:20(505-xona)\nIngliz tili: 10:30-11:50(506-xona)"
+      }
+    }
+  }
+}
